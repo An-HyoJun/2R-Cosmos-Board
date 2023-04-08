@@ -7,6 +7,9 @@ Original source code provided by Cosmos board
 # Greedy
 Original FTL provided by Cosmos board
 
+# 2R
+Ported version of 2R FTL code to Cosmos board
+
 # 2R++B
 2R++ block version algorithm
 
